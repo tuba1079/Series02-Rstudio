@@ -1,0 +1,22 @@
+---
+---
+title: "IEAP Series 02 – Statistical Tests"
+author: "Tuba"
+date: "2026-10-01"
+format: pdf
+---
+# Introduction
+
+# Statistical Tests
+
+# Results
+
+# Discussion
+
+# Conclusion
+
+# References
+
+# Git Workflow and Collaboration
+
+# Challenges and Lessons Learned
